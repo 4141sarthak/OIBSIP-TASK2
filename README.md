@@ -122,5 +122,8 @@ This project was developed as part of academic learning to apply concepts of GUI
 Sarthak Jindal
 
 ---
+## License
+This project is licensed under the MIT License.
+---
 
 ⭐ If you found this project useful, feel free to star the repository!
