@@ -82,7 +82,9 @@ BMI-Calculator/
 ├── README.md
 ├── .gitignore
 ├── data.db
+├── LICENSE
 └── screenshots/
+
 ```
 
 ---
